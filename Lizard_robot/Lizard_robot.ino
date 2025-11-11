@@ -5,8 +5,9 @@
   Date               : 11/01/2017
   Description        : Lizard robot
   Company website    : http://www.sunfounder.com
-   ---------------------------------------------------------------------------*/
 ** does not compile because this code is writen for outdated IRremote ver 2.0
+   ---------------------------------------------------------------------------*/
+
 /* Include ------------------------------------------------------------------*/
 #include <Servo.h>
 #include <IRremote.h>
@@ -119,4 +120,5 @@ void loop()
      keySUB();
   }
   }
+
 
