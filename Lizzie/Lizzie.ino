@@ -1,6 +1,5 @@
 /* -----------------------------------------------------------------------------
   - Project:   Lizzie the Lizard Robot
-  - Copyright: Copyright (C) 2015 SunFounder.
   - Version Date:      2025/11/11a
   - Author: Patrick Basten
    -----------------------------------------------------------------------------
@@ -50,4 +49,5 @@ void loop()
       }
   }
 }
+
 
