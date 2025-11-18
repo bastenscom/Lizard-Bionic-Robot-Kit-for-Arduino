@@ -5,8 +5,6 @@
    -----------------------------------------------------------------------------
   - Overview: This code was written for teaching arduino code
   - hardware: Arduino Nano (Leonardo in IDE)
-  - written using Arduino IDE 1.8.19 https://www.arduino.cc/en/software/
-
    ---------------------------------------------------------------------------*/
 
 #include <Servo.h>
@@ -63,4 +61,5 @@ void loop()
   
   delay(2000);
 }
+
 
