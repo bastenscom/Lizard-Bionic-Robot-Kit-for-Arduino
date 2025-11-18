@@ -1,10 +1,10 @@
 /* -----------------------------------------------------------------------------
   - Project:   My First Arduio
   - Version Date:      2025/11/17a
-  - Author: Patrick Basten
+  - Author: Patrick Basten - Bastens.com 
    -----------------------------------------------------------------------------
   - Overview: This code was written for teaching arduino code
-  - Arduino Nano
+  - hardware: Arduino Nano (Leonardo in IDE)
   - written using Arduino IDE 1.8.19 https://www.arduino.cc/en/software/
 
    ---------------------------------------------------------------------------*/
@@ -63,3 +63,4 @@ void loop()
   
   delay(2000);
 }
+
